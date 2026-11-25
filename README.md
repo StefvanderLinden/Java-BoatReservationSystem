@@ -7,6 +7,7 @@ This case was for a client that had a boat rental company and wanted to move fro
 
 # What it can do
 * Show a day overview with all the reservations of that day in a calender view
+* <img width="1573" height="885" alt="image" src="https://github.com/user-attachments/assets/bb490117-1b1b-428c-9f9b-376bd7d69e53" />
 * sort the day overview by boat type
 * make a reservation for a boat rental
 * add multiple boats per reservation
