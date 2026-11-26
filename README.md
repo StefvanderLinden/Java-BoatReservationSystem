@@ -6,10 +6,10 @@ In our Software Engineering course we had a few simulated client cases.
 This case was for a client that had a boat rental company and wanted to move from an old paper system to a digital one
 
 ## Tech Stack
-This project was made in Java with the [Swing Framework](https://docs.oracle.com/en/java/javase/21/docs/api/java.desktop/javax/swing/package-summary.html) for the UI and uses [Maven](https://maven.apache.org/) as it's build system
+This project was made in Java version 21 with the [Swing Framework](https://docs.oracle.com/en/java/javase/21/docs/api/java.desktop/javax/swing/package-summary.html) for the UI and uses [Maven](https://maven.apache.org/) as it's build system
 
 ## How to Install
-this project was developed in intellij so we reccomend cloning it as a maven project and then building and running it
+this project was developed in [IntelliJ IDEA](https://www.jetbrains.com/idea/) so we recommend cloning it as a maven project and running it through the IDE
 
 ## What it can do
 * Show a day overview with all the reservations of that day in a calendar view, Sort the overview by boat type
@@ -22,7 +22,7 @@ this project was developed in intellij so we reccomend cloning it as a maven pro
   
 * put boats on broken status so they can't be selected to reserve
 
-  https://github.com/user-attachments/assets/62c33280-7760-46e9-8898-08e3b16ca982
+  https://github.com/user-attachments/assets/4d31d614-1334-4e61-b821-e1638f09595e
 
 * Show a list of all the existing reservations, Sort the list by name or number
   
